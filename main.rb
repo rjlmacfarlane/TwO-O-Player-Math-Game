@@ -1,3 +1,5 @@
+# This assignment was pair-programmed with Mahsa Arabameri & Luke Berzins
+
 require_relative 'players'
 require_relative 'questions'
 

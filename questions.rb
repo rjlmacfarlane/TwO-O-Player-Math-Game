@@ -1,3 +1,5 @@
+# This assignment was pair-programmed with Mahsa Arabameri & Luke Berzins
+
 class Questions
     attr_accessor :answer, :prompt, :math
   def initialize

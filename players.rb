@@ -1,3 +1,5 @@
+# This assignment was pair-programmed with Mahsa Arabameri & Luke Berzins
+
 class Player
   attr_accessor :name, :life
   def initialize(name)
